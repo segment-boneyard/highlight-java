@@ -51,7 +51,7 @@ java.number = /\b[-+]?(0[bx][\da-f]+|\d*\.?\d+(e-?\d+)?)\b/;
  * String
  */
 
-java.string = /("(\\?.)*?\2)/;
+java.string = /("(\\?.)*?")/;
 
 /**
  * Method
