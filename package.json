@@ -1,0 +1,9 @@
+{
+  "name": "highlight-java",
+  "repo": "segmentio/highlight-java",
+  "description": "Highlight plugin for Java.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {}
+}
